@@ -62,6 +62,8 @@ Reporting and Analytics
 
 [Emmanuel Allan MJ](https://github.com/EmmanuelAllanMJ)
 
+[Leerish Arvind ] (https://github.com/leerish)
+
 [Malay Kumar](https://github.com/Malay-dev)
 
 [Vasu Bhasin](https://github.com/VasuBhasin15)
