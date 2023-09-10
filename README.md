@@ -62,7 +62,7 @@ Reporting and Analytics
 
 [Emmanuel Allan MJ](https://github.com/EmmanuelAllanMJ)
 
-[Leerish Arvind ] (https://github.com/leerish)
+[Leerish Arvind](https://github.com/leerish)
 
 [Malay Kumar](https://github.com/Malay-dev)
 
